@@ -1,4 +1,4 @@
-package com.dedykuncoro.searchview_mysql.model;
+package com.wardiman.searchsql.model;
 
 /**
  * Created by KUNCORO on 09/08/2017.

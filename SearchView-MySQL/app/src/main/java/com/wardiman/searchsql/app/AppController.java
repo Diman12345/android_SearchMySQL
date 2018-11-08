@@ -1,4 +1,4 @@
-package com.dedykuncoro.searchview_mysql.app;
+package com.wardiman.searchsql.app;
 
 import android.app.Application;
 import android.text.TextUtils;

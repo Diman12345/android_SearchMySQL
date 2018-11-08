@@ -1,8 +1,6 @@
-package com.dedykuncoro.searchview_mysql;
+package com.wardiman.searchsql;
 
 import android.content.Context;
-import android.support.test.InstrumentationRegistry;
-import android.support.test.runner.AndroidJUnit4;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -21,6 +19,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.dedykuncoro.searchview_mysql", appContext.getPackageName());
+        assertEquals("com.wardiman.searchsql", appContext.getPackageName());
     }
 }

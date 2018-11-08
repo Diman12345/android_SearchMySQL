@@ -1,4 +1,4 @@
-package com.dedykuncoro.searchview_mysql;
+package com.wardiman.searchsql;
 
 import org.junit.Test;
 

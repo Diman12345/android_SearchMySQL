@@ -1,6 +1,5 @@
-package com.dedykuncoro.searchview_mysql;
+package com.wardiman.searchsql;
 
-import android.app.ProgressDialog;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -17,9 +16,10 @@ import com.android.volley.VolleyError;
 import com.android.volley.VolleyLog;
 import com.android.volley.toolbox.JsonArrayRequest;
 import com.android.volley.toolbox.StringRequest;
-import com.dedykuncoro.searchview_mysql.adapter.Adapter;
-import com.dedykuncoro.searchview_mysql.app.AppController;
-import com.dedykuncoro.searchview_mysql.model.DataModel;
+import com.wardiman.searchsql.R;
+import com.wardiman.searchsql.adapter.Adapter;
+import com.wardiman.searchsql.app.AppController;
+import com.wardiman.searchsql.model.DataModel;
 
 import org.json.JSONArray;
 import org.json.JSONException;

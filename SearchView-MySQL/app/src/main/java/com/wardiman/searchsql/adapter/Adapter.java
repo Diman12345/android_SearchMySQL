@@ -1,4 +1,4 @@
-package com.dedykuncoro.searchview_mysql.adapter;
+package com.wardiman.searchsql.adapter;
 
 import android.app.Activity;
 import android.content.Context;
@@ -8,14 +8,12 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.dedykuncoro.searchview_mysql.R;
-import com.dedykuncoro.searchview_mysql.model.DataModel;
+import com.wardiman.searchsql.R;
+import com.wardiman.searchsql.model.DataModel;
 
 import java.util.List;
 
-/**
- * Created by KUNCORO on 09/08/2017.
- */
+
 
 public class Adapter extends BaseAdapter {
     private Activity activity;
